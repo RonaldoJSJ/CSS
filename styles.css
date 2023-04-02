@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;900&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+header {
+
+    margin: 47px 0 177px 42px;
+
+}
+
+.link-header {
+    font-size: 24px;
+    font-weight: 600;
+    Line-height: 29px;
+    color: #989d9c;
+    cursor: pointer;
+    margin-right: 23px;
+}
+
+.login {
+    background: #665AE1;
+    border-radius: 20.5px;
+    width: 130px;
+    height: 41px;
+    border: none;
+    font-weight: 600;
+    font-size: 24px;
+    Line-height: 29px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.logo-image {
+    width: 568px;
+    height: 500px;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+section {
+    margin-left: 86px;
+    display: inline-block;
+}
+
+.we-care {
+    font-weight: 900;
+    Font-size: 100px;
+    line-height: 122px;
+    color: #515151;
+}
+
+.about {
+    font-weight: 500;
+    Font-size: 58px;
+    line-height: 71px;
+    color: #515151;
+}
+
+.lorem {
+    margin-top: 32px;
+    margin-bottom: 32px;
+    font-weight: 400;
+    Font-size: 24px;
+    Line-height: 29px;
+    color: #848484;
+    width: 515px;
+}
+
+.explore {
+    background-color: #ADFF00 ;
+    border-radius: 30px;
+    width: 239px;
+    height: 64px;
+    border: none;
+    cursor: pointer;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+    
+}
+
